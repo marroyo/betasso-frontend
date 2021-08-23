@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Betasso
 tagline: A Technology Company
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/betasso-main.png
 cta:
   ctaText: Know more
   ctaLink: /about
